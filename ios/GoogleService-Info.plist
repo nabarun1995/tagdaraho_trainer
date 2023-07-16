@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>606564177583-nl3hajol2d9usuqgpcrqkk86sbakdsec.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.606564177583-nl3hajol2d9usuqgpcrqkk86sbakdsec</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>606564177583-qlqf35thf3alkuhl9hm125kmh3tuab4i.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAVZWFu1mSuB6BTsFRaynGxx1JS-K6eqis</string>
+	<key>GCM_SENDER_ID</key>
+	<string>606564177583</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.TagdaRahoTrainer</string>
+	<key>PROJECT_ID</key>
+	<string>tagdarahotrainer</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tagdarahotrainer.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:606564177583:ios:a8941908fd2d9a55b8265a</string>
+</dict>
+</plist>

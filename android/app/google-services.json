@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "606564177583",
+    "project_id": "tagdarahotrainer",
+    "storage_bucket": "tagdarahotrainer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606564177583:android:103802bd3cabb7fcb8265a",
+        "android_client_info": {
+          "package_name": "com.tagdarahotrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606564177583-7qn8n5gb2lj7q9u1ntbh2rin4gfepfni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tagdarahotrainer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "606564177583-sglohceb6q3th77h5pv1i1cf02jn3b0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoW28e56t1KIGNd0Sd8z1H4cPp26HO0cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606564177583-sglohceb6q3th77h5pv1i1cf02jn3b0a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "606564177583-nl3hajol2d9usuqgpcrqkk86sbakdsec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TagdaRahoTrainer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
